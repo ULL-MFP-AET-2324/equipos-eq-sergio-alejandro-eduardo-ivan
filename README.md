@@ -11,8 +11,8 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## ALEJANDRO RODRÍGUEZ FONTE
 
-* [GH Classroom]()
-* [Organización de Clase]()
+* [GH Classroom](https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252)
+* [Organización de Clase](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/teams/eq-alejandro-eduardo-ivan-sergio/members)
 * [Profesor]()
 * Alumnos en la organización
   * [Alumno 1]()
