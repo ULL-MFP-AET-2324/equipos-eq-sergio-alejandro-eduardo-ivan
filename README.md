@@ -26,5 +26,15 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Profesor](https://github.com/orgs/ULL-MFP-AET-2324-alu0100699968/people/alu0100699968)
 * Alumnos en la organización
   * [Alejandro Rodríguez Fonte]()
-  * [Eduardo Miquel Hernández]()
+  * [Eduardo Miquel Hernández](https://github.com/eduardomhd)
+  * [Iván Jesús Torres Rodríguez]()
+
+## Eduardo Miquel Hernández
+
+* [GH Classroom](https://classroom.github.com/classrooms/149102133-ull-mfp-aet-2324-alu0101052274)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0101052274)
+* [Profesor](https://github.com/orgs/ull-mfp-aet-2324-alu0101052274/people/eduardomhd)
+* Alumnos en la organización
+  * [Sergio Rodríguez Martín](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
+  * [Alejandro Rodríguez Fonte]()
   * [Iván Jesús Torres Rodríguez]()
