@@ -13,17 +13,18 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 * [GH Classroom](https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252)
 * [Organización de Clase](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/teams/eq-alejandro-eduardo-ivan-sergio/members)
-* [Profesor](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/Alejandrofonte)
-* Alumnos en la organización
-  * [Sergio](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
-  * [Ivan](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/ivanjtr)
-  * [Eduardo](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/eduardomhd)
- 
-## Alumno 2
-
-* [GH Classroom]()
-* [Organización de Clase]()
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Alumno 1](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
+  * [Alumno 2](https://github.com/ull-mfp-aet-2324-alu0100774252/electrolisis-conceptos-template)
+  * [Alumno 3](https://github.com/ull-mfp-aet-2324-alu0100774252/electrolisis-conceptos-template)
+
+## Sergio Rodríguez Martín
+
+* [GH Classroom](https://classroom.github.com/classrooms/149103359-ull-mfp-aet-2324-alu0100699968)
+* [Organización de Clase](https://github.com/ULL-MFP-AET-2324-alu0100699968)
+* [Profesor](https://github.com/orgs/ULL-MFP-AET-2324-alu0100699968/people/alu0100699968)
+* Alumnos en la organización
+  * [Alejandro Rodríguez Fonte]()
+  * [Eduardo Miquel Hernández]()
+  * [Iván Jesús Torres Rodríguez]()
