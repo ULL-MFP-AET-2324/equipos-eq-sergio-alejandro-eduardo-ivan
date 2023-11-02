@@ -12,7 +12,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 ## ALEJANDRO RODRÍGUEZ FONTE
 
 * [GH Classroom](https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252)
-* [Organización de Clase](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/teams/eq-alejandro-eduardo-ivan-sergio/members)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100774252)
 * [Profesor](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/Alejandrofonte)
 * Alumnos en la organización
   * [Sergio Rodríguez Martín](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
