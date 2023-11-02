@@ -15,8 +15,9 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 * [Organización de Clase](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/teams/eq-alejandro-eduardo-ivan-sergio/members)
 * [Profesor]()
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
+  * [Alumno 1](https://github.com/orgs/ull-mfp-aet-2324-alu0100774252/people/alu0100699968)
+  * [Alumno 2](https://github.com/ull-mfp-aet-2324-alu0100774252/electrolisis-conceptos-template)
+  * [Alumno 3](https://github.com/ull-mfp-aet-2324-alu0100774252/electrolisis-conceptos-template)
 
 ## Alumno 2
 
